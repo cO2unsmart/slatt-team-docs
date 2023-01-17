@@ -11,7 +11,7 @@ const config: DocsThemeConfig = {
   },
   docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
   footer: {
-    text: '© %s 2023 CO2.' % getFullYear(),
+    text: '&copy; 2023 CO2.',
   },
 }
 
